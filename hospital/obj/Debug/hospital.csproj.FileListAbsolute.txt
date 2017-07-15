@@ -1,0 +1,12 @@
+c:\users\texnousta\documents\visual studio 2017\Projects\hospital\hospital\bin\Debug\hospital.exe.config
+c:\users\texnousta\documents\visual studio 2017\Projects\hospital\hospital\bin\Debug\hospital.exe
+c:\users\texnousta\documents\visual studio 2017\Projects\hospital\hospital\bin\Debug\hospital.pdb
+c:\users\texnousta\documents\visual studio 2017\Projects\hospital\hospital\obj\Debug\hospital.csprojResolveAssemblyReference.cache
+c:\users\texnousta\documents\visual studio 2017\Projects\hospital\hospital\obj\Debug\hospital.exe
+c:\users\texnousta\documents\visual studio 2017\Projects\hospital\hospital\obj\Debug\hospital.pdb
+C:\Users\TexnoUsta\Desktop\hospital\hospital\bin\Debug\hospital.exe.config
+C:\Users\TexnoUsta\Desktop\hospital\hospital\bin\Debug\hospital.exe
+C:\Users\TexnoUsta\Desktop\hospital\hospital\bin\Debug\hospital.pdb
+C:\Users\TexnoUsta\Desktop\hospital\hospital\obj\Debug\hospital.csprojResolveAssemblyReference.cache
+C:\Users\TexnoUsta\Desktop\hospital\hospital\obj\Debug\hospital.exe
+C:\Users\TexnoUsta\Desktop\hospital\hospital\obj\Debug\hospital.pdb
